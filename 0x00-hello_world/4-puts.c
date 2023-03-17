@@ -2,7 +2,7 @@
 
 /**
  * main - prints "Programming is like a multilingual puzzel,
- * followed by a newline.
+ * followed by a newline."
  * Return: Always 0.
  * /
  
